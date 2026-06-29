@@ -281,7 +281,7 @@ export default function AudioGuide() {
             title="Listen in English"
             subtitle="Complete audio narration in English"
             lang="English"
-            src="/images/Red-Eared-Slider.mp3"
+            src="/images/Red-eared%20Slider.mp3"
             flag="🔊"
             accentColor="teal"
             delay={0.2}
@@ -290,7 +290,7 @@ export default function AudioGuide() {
             title="हिंदी में सुनें"
             subtitle="हिंदी में पूर्ण ऑडियो गाइड"
             lang="हिंदी"
-            src="/images/Red-eared%20Slider.mp3"
+            src="/images/Red-Eared-Slider.mp3"
             flag="🔊"
             accentColor="blue"
             delay={0.35}
